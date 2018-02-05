@@ -1,2 +1,5 @@
 # hello-world
-Hello World!
+
+Hi!
+
+I'm a student and a hobbyist.
